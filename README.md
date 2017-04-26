@@ -1,4 +1,3 @@
 # Vsh-H-pverkefni
-## LMAO XD
-### KMS
-#### LMAO
+## PLAYER UNKNOWN BATTLEGROUNDS HENGDU ÞIG DAGUR
+ASDF
