@@ -1,3 +1,7 @@
 # Vsh-H-pverkefni
-## PLAYER UNKNOWN BATTLEGROUNDS HENGDU ÞIG DAGUR
+## Ritgerðinn hans dags
 ASDF
+
+## Ritgerðinn hans Róberts
+
+Lorem ipsum
