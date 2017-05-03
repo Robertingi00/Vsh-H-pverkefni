@@ -1,6 +1,17 @@
 # Vsh-H-pverkefni
 ## Ritgerðinn hans dags
-ASDF
+## Counter-Strike: Global Offensive
+
+Counter-Strike: Global Offensive er einn leikur úr leikjaseríunum counter strike.
+Fyrsti counter strike leikurinn fyrir utan modið sem kom út árið 1999 var Counter-Strike 1.6 sem kom út árið 2000, 24 Mars 2004 kom út annar Counter-Strike leikurinn sem hét Counter-Strike: Condition Zero sem var hannaður af Valve og Turtle Rock Studio. Aðeins nokkrum mánuðum eftir Condition Zero kom út þriðji leikurinn sem hét Counter-Strike: Source sem var fyrsti leikurinn þeirra sem var keyrður á vélinni source sem kom út árið 2004. Svo loksins kom Counter-Strike: Global Offensive út þann 21 ágúst 2012.
+
+Counter-Strike: Global Offensive kom út á PC, Playstation 3, Xbox 360, OS X og Linux en er aðalega spilaður á pc um víðan heim. Leikurinn er fyrstu persónu skotleikur og keyrir á vélinni source. Hönnuðir leiksins voru Valce Corporation og Hidden Path Entertainment en aðeins Valve Corporation gaf út leikinn.
+
+Leikurinn snýst um tvö liðinn sem keppast á móti hvor öðru „Counter-Terrorists“ og „Terrorists“ , Bæði liðinn fá það verkefni að útrýma hvor öðru en einnig þurfa að ljúka við sérstökum verkefnum. „Terrorists“ Eiga annað hvort að setja niður sprengju á sprengjusvæðum eða að vernda Gísla sem „Counter-Terrorists“ Eiga að bjarga eða að ná því að aftengja  sprengjunna. 
+Leikmenn leiksins fá þann valkost á því að velja um frá 33 byssum 12 hnífum og 6 sprengjum, en þau vopn sem flest allir leikmenn nota eru þau eftirfarandi: ak47, m4a1-s, m4a4, awp, desert eagle.
+Í Counter strike global offensive er e-sports deild þar sem atvinumenn keppast um að vinna verðlaun, 
+Leikurinn hefur 400,000 daglega virka spilara og er næst mesti spilaði leikurinn á steam sem valve corperations eiga.
+Mest spilaðasta borðin samkvæmt spilurum leiksins eru Dust 2, inferno, mirage, og cache. Dust 2 hefur verið frægasta borðið alveg frá því gerð borðsins sem var árið 2001.
 
 ## Ritgerðinn hans Róberts (Black ops 1)
 
